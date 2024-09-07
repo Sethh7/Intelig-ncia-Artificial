@@ -1,4 +1,4 @@
-## **Descubra qual é a melhor Inteligência Artificial pra Você :)  **
+## Descubra qual é a melhor Inteligência Artificial pra Você :)
 
 ### **O que essa aplicação faz?**
 
