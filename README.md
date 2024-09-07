@@ -1,4 +1,4 @@
-## **Descubrindo mais sobre o mundo das Inteligncias Artificiais !** 
+## **Descubrindo mais sobre o mundo das Inteligências Artificiais !** 
 
 Vamos desmistificar esse código juntos, passo a passo. Imagine que você está construindo uma máquina de busca bem simples para encontrar informações sobre personagens de um jogo ou de um filme. Essa função, `pesquisar()`, é o coração dessa máquina!
 
