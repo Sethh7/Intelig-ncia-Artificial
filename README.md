@@ -26,3 +26,5 @@ Vamos construir um futuro mais inteligente juntos!
 
 #InteligênciaArtificial #DesenvolvimentoWeb #JavaScript #HTML #CSS #GitHub
 Gostou? Deixe um ⭐ para mostrar seu apoio!
+
+https://inteligenciaa-artificial--wine.vercel.app/
