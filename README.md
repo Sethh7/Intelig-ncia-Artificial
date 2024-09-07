@@ -22,7 +22,7 @@ Já pensou em ter sua própria busca personalizada de Inteligências Artificiais
 2. **Abra o arquivo HTML:** Abra o arquivo HTML em um navegador para ver a aplicação funcionando.
 3. **Comece a pesquisar:** Digite o nome da IA que você procura e veja os resultados!
 
-**Vamos construir um futuro mais inteligente juntos! **
+Vamos construir um futuro mais inteligente juntos!
 
-**#InteligênciaArtificial #DesenvolvimentoWeb #JavaScript #HTML #CSS #GitHub**
-**Gostou? Deixe um ⭐ para mostrar seu apoio!**
+#InteligênciaArtificial #DesenvolvimentoWeb #JavaScript #HTML #CSS #GitHub
+Gostou? Deixe um ⭐ para mostrar seu apoio!
